@@ -38,11 +38,9 @@ input, textarea, select, button {
 select { 
     margin: inherit; 
 } 
-/* Fixes incorrect placement of numbers in ol’s in IE6/7 */ 
 ol { margin-left:2em; } 
-/* == clearfix == */ 
 .clearfix:after { 
-    content: “.”; 
+    content:" "; 
     display: block; 
     height: 0; 
     clear: both; 
