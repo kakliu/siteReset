@@ -1,0 +1,16 @@
+{
+  "name": "web site",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "gulp": "*",
+    "gulp-sass": "*",
+    "gulp-jade": "*",
+    "gulp-coffee": "*",
+    "gulp-connect": "*",
+    "gulp-minify-css": "*",
+    "gulp-prettify": "*"
+  }
+}
+
+
