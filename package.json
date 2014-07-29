@@ -1,7 +1,10 @@
 {
-  "name": "web site",
+  "name": "web-site",
   "version": "0.0.1",
-  "private": false,
+  "private": true,
+  "scripts": {
+    "start": "npm install gulp gulp-sass gulp-jade gulp-coffee gulp-connect gulp-minify-css gulp-prettify"
+  },  
   "dependencies": {
     "gulp": "*",
     "gulp-sass": "*",
